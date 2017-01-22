@@ -1,0 +1,28 @@
+{
+  "name": "stormy-harbor-89178",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "6.9.4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cool-ascii-faces": "1.3.4",
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3vaM/stormy-harbor-89178.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3vaM/stormy-harbor-89178/issues"
+  },
+  "homepage": "https://github.com/3vaM/stormy-harbor-89178#readme"
+}
